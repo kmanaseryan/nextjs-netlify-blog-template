@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: https://github.com/kmanaseryan/nextjs-netlify-blog-template # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
